@@ -5,3 +5,5 @@ Do ignore the fact that I haven't been coding that much. [IBDP](https://www.ibo.
 I mostly did full-stack but am currently learning Rust and Machine Learning and a whole bunch of math in fear of being replaced by AI.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredzimmer&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredzimmer&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
