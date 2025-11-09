@@ -1,6 +1,6 @@
 ## What ho! 👋
 
-I develop everything but not ChatGPT wrapper. OpenAI is gonna do that for me.
+I develop everything but not ChatGPT wrapper.
 <!--
 **alfredzimmer/alfredzimmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
