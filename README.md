@@ -1,6 +1,6 @@
 ## What ho! 👋
 
-I develop everything but ChatGPT wrapper.
+Why don't we build a Chat GPT Wrapper?
 <!--
 **alfredzimmer/alfredzimmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
